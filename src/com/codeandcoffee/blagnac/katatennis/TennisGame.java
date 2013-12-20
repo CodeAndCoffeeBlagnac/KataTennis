@@ -1,4 +1,4 @@
-package com.infotel.codingdojo.katatennis;
+package com.codeandcoffee.blagnac.katatennis;
 
 public class TennisGame {
 

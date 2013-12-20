@@ -1,12 +1,12 @@
 
-package com.infotel.codingdojo.katatennis;
+package com.codeandcoffee.blagnac.katatennis;
 
 import static org.junit.Assert.assertEquals;
 
 import org.junit.Before;
 import org.junit.Test;
 
-import com.infotel.codingdojo.katatennis.TennisGame;
+import com.codeandcoffee.blagnac.katatennis.TennisGame;
 
 public class TestTennisScoreCounter {
 
